@@ -1,0 +1,71 @@
+{
+  "name": "GEORGE P. BURDELL",
+  "email": "george.burdell@gatech.edu",
+  "phone": "0000000000",
+  "linkedin": "linkedin.com/in/gpburdell",
+  "education": [
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "description": "Concentration in Technology Management, Strategy & Innovation. Held multiple leadership roles, including Vice President of the Entrepreneurship Club, member of the Peer Leadership Committee, and Chairman of the Athletics Committee",
+      "endDate": "2025-05-01",
+      "field": "Strategy and Innovation",
+      "id": "m91rrot5fzn8p2zwhkk",
+      "institution": "Georgia Tech",
+      "startDate": "2023-08-21"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "description": "Minor in Mass Communications and Media Studies. Leadership roles include Pre-Orientation Coordinator at Tufts, Sports Editor and Reporter for The Tufts Daily, and Treasurer of Theta Chi Fraternity",
+      "endDate": "2018-05-07",
+      "field": "English",
+      "id": "m9fy6k08sho0f5l68ki",
+      "institution": "TUFTS UNIVERSITY",
+      "startDate": "2014-08-04"
+    }
+  ],
+  "workExperiences": [
+    {
+      "bullets": [
+        "Developed marketing and tech capabilities strategy with expected value of $49M designed to enhance Nike Digital Direct customer experiences and grow new member repurchase rates",
+        "Built partnerships with Marketing, Product, and Consumer Insights teams to align stakeholder priorities, leading to increased team-wide confidence in new findings and full buy-in for recommendations and strategy",
+        "Spearheaded new analysis on Nike Direct\u2019s repurchase data exploring consumer behavior across target segments, resulting in new insights demonstrating importance of first-time buyers and prevalence of lapsed members",
+        "Mapped Nike\u2019s market opportunity by analyzing competitors across tech and e-commerce landscape; Built customer journeys justifying recommendations, including a refreshed marketing strategy and overhauled return experience"
+      ],
+      "company": "NIKE",
+      "current": false,
+      "description": "Worked on global post-purchase strategy to enhance customer experience and drive repeat engagement for Nike\u2019s Digital Direct business\n",
+      "endDate": "2024-08-16",
+      "id": "m91ruarr4itm98y4oo6",
+      "position": "Global Post-Purchase Strategy Intern",
+      "startDate": "2024-06-03"
+    },
+    {
+      "bullets": [
+        "Built product roadmap and implementation plan for new CRM system by leading cross-functional team in gathering organization-wide requirements and goals; Identified critical areas for technological improvement, led RFP process, proposed technical solutions, and coordinated with Leadership team to ensure buy-in and strategic alignment",
+        "Oversaw development, from ideation to launch, of atlanta2020 website; Worked with developers, writers, and event- planners to build the site as part of marketing plan for U.S. Olympic Team Trials in the Marathon",
+        "Grew Atlanta Track Club membership revenues 32% via novel digital marketing tactics designed to reduce churn, identify high-value members, and better understand customer lifecycles; Expanded membership from 27,000 to 35,000",
+        "Drove department\u2019s cultural shift to analytics-driven marketing by overhauling digital systems, incorporating data into marketing strategies, and reporting across web channels; Enabled 10% departmental-wide revenue growth each year"
+      ],
+      "company": "ATLANTA TRACK CLUB",
+      "current": false,
+      "description": "Member-based non-profit organizing road races in Atlanta for more than 50 years. As of 2020, revenues were in excess of $9 million.",
+      "endDate": "2023-06-30",
+      "id": "m91rwnh5ewvim20456",
+      "position": "Marketing Manager \u2013 Events\t",
+      "startDate": "2021-11-08"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Cloud",
+    "Product management",
+    "Generative AI",
+    "RAG",
+    "SQL",
+    "R",
+    "Strategy",
+    "Stakeholder Management"
+  ],
+  "resumes": [],
+  "coverLetters": []
+}
